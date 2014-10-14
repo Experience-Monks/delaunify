@@ -1,0 +1,48 @@
+{
+  "name": "delaunify",
+  "version": "1.0.0",
+  "description": "randomly delaunay-triangulates an image",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "as-number": "^1.0.0",
+    "color-style": "^1.0.0",
+    "delaunay-triangulate": "^1.1.6",
+    "get-image-pixels": "^1.0.0",
+    "randf": "^1.0.0"
+  },
+  "devDependencies": {
+    "baboon-image-uri": "^1.0.1",
+    "domready": "^1.0.7",
+    "img": "0.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "delaunay",
+    "triangulate",
+    "triangulation",
+    "triangulated",
+    "triangles",
+    "tris",
+    "tri",
+    "image",
+    "processing",
+    "filter",
+    "canvas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/delaunify.git"
+  },
+  "homepage": "https://github.com/mattdesl/delaunify",
+  "bugs": {
+    "url": "https://github.com/mattdesl/delaunify/issues"
+  }
+}

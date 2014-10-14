@@ -25,7 +25,7 @@ domready(function() {
 })
 ```
 
-![img](http://i.imgur.com/tR0XK11.png)
+![img](http://i.imgur.com/aI3qo5f.png?1)
 
 ## Usage
 

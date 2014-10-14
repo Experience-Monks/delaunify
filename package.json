@@ -39,10 +39,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/delaunify.git"
+    "url": "git://github.com/Jam3/delaunify.git"
   },
-  "homepage": "https://github.com/mattdesl/delaunify",
+  "homepage": "https://github.com/Jam3/delaunify",
   "bugs": {
-    "url": "https://github.com/mattdesl/delaunify/issues"
+    "url": "https://github.com/Jam3/delaunify/issues"
   }
 }

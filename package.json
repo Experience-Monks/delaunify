@@ -1,6 +1,6 @@
 {
   "name": "delaunify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "randomly delaunay-triangulates an image",
   "main": "index.js",
   "license": "MIT",

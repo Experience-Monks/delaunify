@@ -10,7 +10,7 @@ A new canvas is returned with the same size as the image.
 var load = require('img')
 var domready = require('domready')
 var uri = require('baboon-image-uri')
-var delaunify = require('../')
+var delaunify = require('delaunify')
 
 domready(function() {
 	//load image with baboon for testing

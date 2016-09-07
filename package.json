@@ -11,10 +11,21 @@
   },
   "dependencies": {
     "as-number": "^1.0.0",
+    "bound-points": "^1.0.0",
+    "clamp": "^1.0.1",
+    "color-luminance": "^2.1.0",
     "color-style": "^1.0.0",
     "delaunay-triangulate": "^1.1.6",
-    "get-image-pixels": "^1.0.0",
-    "randf": "^1.0.0"
+    "get-image-pixels": "^1.0.1",
+    "gl-matrix-mat2d": "^2.2.1-npm",
+    "gl-vec2": "^1.0.0",
+    "lerp": "^1.0.3",
+    "load-img": "^1.0.0",
+    "new-array": "^1.0.0",
+    "randf": "^1.0.0",
+    "random-float": "^1.0.0",
+    "triangle-centroid": "^1.0.0",
+    "unlerp": "^1.0.1"
   },
   "devDependencies": {
     "baboon-image-uri": "^1.0.1",
